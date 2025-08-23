@@ -1,5 +1,7 @@
 body {
-    background-color: #10089c;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    background-color: #9d7a18;
+    color: #2c3e50;
     margin: 20px;
 }
 h1 {
